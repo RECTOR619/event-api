@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+cassandra-driver
+python-dotenv
+pyJWT
+python-decouple
+bcrypt

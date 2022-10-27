@@ -1,0 +1,6 @@
+.env
+app/db-connector/
+app/tokens.env/
+lib/
+scripts/
+ 
